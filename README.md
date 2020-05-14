@@ -5,8 +5,8 @@ Ini adalah adapter untuk mempermudah developer Android untuk mengimplementasi vi
 Beberapa tipe view :
 
 Simple Text :
-
-![RecyclerView with simple text viewHolder](../assets/screenshots/view_holder_simple_text.png?raw=true)
+</br>
+<img src="../assets/screenshots/view_holder_simple_text.png" width="25%" height="25%">
   
 Berikut contoh code untuk mengimplementasi :
 
