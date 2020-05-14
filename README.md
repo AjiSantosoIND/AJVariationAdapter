@@ -6,7 +6,7 @@ Beberapa tipe view :
 
 Simple Text :
 
-![RecyclerView with simple text viewHolder](../screenshots/view_holder_simple_text.png?raw=true)
+![RecyclerView with simple text viewHolder](../assets/screenshots/view_holder_simple_text.png?raw=true)
   
 Berikut contoh code untuk mengimplementasi :
 
