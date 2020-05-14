@@ -6,7 +6,7 @@ Beberapa tipe view :
 
 Simple Text :
 
-![GitHub Logo](/assets/view_holder_simple_text.png)
+![GitHub Logo](/screenshots/view_holder_simple_text.png)
 Format: ![Alt Text](url)
   
 Berikut contoh code untuk mengimplementasi :
