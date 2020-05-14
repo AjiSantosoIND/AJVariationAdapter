@@ -6,8 +6,7 @@ Beberapa tipe view :
 
 Simple Text :
 
-![GitHub Logo](/screenshots/view_holder_simple_text.png)
-Format: ![Alt Text](url)
+![RecyclerView with simple text viewHolder](../screenshots/view_holder_simple_text.png?raw=true)
   
 Berikut contoh code untuk mengimplementasi :
 
