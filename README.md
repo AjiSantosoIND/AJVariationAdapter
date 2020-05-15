@@ -2,7 +2,7 @@
 
 Ini adalah adapter untuk mempermudah developer Android untuk mengimplementasi view berupa list
 
-Beberapa tipe view :
+# Beberapa tipe view
 
 Simple Text :
 </br></br>
