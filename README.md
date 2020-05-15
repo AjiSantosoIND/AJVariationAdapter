@@ -6,6 +6,7 @@ Ini adalah adapter untuk mempermudah developer Android untuk mengimplementasi vi
 
 * ###### Simple Text :
   <img src="../assets/screenshots/view_holder_simple_text.png" width="25%" height="25%">
+  </br</br>
   Berikut contoh code untuk mengimplementasi :
 
   ```
