@@ -33,4 +33,3 @@ class AJSimpleAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
     override fun getItemViewType(position: Int): Int = dataList[position].getId()
 }
-
