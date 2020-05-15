@@ -24,7 +24,6 @@ Berikut contoh code untuk mengimplementasi :
   
 Extension
 1. Menampilkan line divider pada setiap item di recyclerView.
-</br>
-<code>[RecyclerView].showLineDivider()</code>
+```[RecyclerView].showLineDivider()```
   
 Silahkan menggunakan code ini, kalo bisa classnya jangan di rename yak :p
