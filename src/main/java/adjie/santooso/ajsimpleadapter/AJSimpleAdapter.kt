@@ -19,6 +19,14 @@ class AJSimpleAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
                 SimpleTextViewHolder(itemView)
             }
+            2 -> {
+                val itemView = inflater.inflate(
+                    R.layout.view_holder_simple_with_description,
+                    parent, false
+                )
+
+                SimpleWithDescriptionTextViewHolder(itemView)
+            }
             else -> TODO("")
         }
     }

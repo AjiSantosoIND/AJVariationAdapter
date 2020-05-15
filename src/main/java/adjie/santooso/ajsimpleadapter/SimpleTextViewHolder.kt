@@ -10,3 +10,4 @@ class SimpleTextViewHolder(itemView: View) : AJBaseViewHolder<SimpleText>(itemVi
         }
     }
 }
+
