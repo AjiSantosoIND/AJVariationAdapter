@@ -8,7 +8,35 @@ Ini adalah adapter untuk mempermudah developer Android untuk mengimplementasi vi
   </br></br>
   <img src="../assets/screenshots/view_holder_simple_text.png" width="25%" height="25%"></br></br>
   Berikut contoh code untuk mengimplementasi :
-<insert code here>
+
+  ```
+  class SampleActivity : BaseActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_sample)
+
+        val adapter = AJSimpleAdapter()
+        adapter.dataList = mutableListOf(
+            SimpleDataText(),
+            SimpleDataText(),
+            SimpleDataText(),
+            SimpleDataText()
+        )
+
+        recyclerview_sample.adapter = adapter
+        recyclerview_sample.layoutManager = LinearLayoutManager(
+            this,
+            RecyclerView.VERTICAL, false
+        )
+
+        recyclerview_sample.showLineDivider()
+    }
+  }
+
+  class SimpleDataText : SimpleText {
+    override fun getText(): String = "Ini text " + System.currentTimeMillis()
+  }
+  ```
   
 * Simple Text Description :
 
