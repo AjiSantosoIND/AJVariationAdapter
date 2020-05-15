@@ -28,8 +28,6 @@ Ini adalah adapter untuk mempermudah developer Android untuk mengimplementasi vi
             this,
             RecyclerView.VERTICAL, false
         )
-
-        recyclerview_sample.showLineDivider()
     }
   }
 
