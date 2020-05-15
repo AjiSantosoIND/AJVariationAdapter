@@ -4,10 +4,10 @@ Ini adalah adapter untuk mempermudah developer Android untuk mengimplementasi vi
 
 # Beberapa tipe view
 
-* Simple Text :
-  </br></br>
-  <img src="../assets/screenshots/view_holder_simple_text.png" width="25%" height="25%"></br></br>
-  Berikut contoh code untuk mengimplementasi :
+* ###### Simple Text :
+  <img src="../assets/screenshots/view_holder_simple_text.png" width="25%" height="25%">
+  <br/><br/>
+  Berikut contoh code untuk mengimplementasi :   <br/><br/>
 
   ```
   class SampleActivity : BaseActivity() {
@@ -36,13 +36,13 @@ Ini adalah adapter untuk mempermudah developer Android untuk mengimplementasi vi
   }
   ```
   
-* Simple Text Description :
+* ###### Simple Text Description :
 
   <insert screenshot here>
   Berikut contoh code untuk mengimplementasi :
   <insert code here>
     
-* Extension
+* ###### Extension
   1. Menampilkan line divider pada setiap item di recyclerView.
   ```[RecyclerView].showLineDivider()```
   
