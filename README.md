@@ -3,6 +3,7 @@
 Ini adalah adapter untuk mempermudah developer Android untuk mengimplementasi view berupa list
 
 # Beberapa tipe view
+# Beberapa screenshot masih belum diupload.
 
 * ###### Simple Text :
   <img src="../assets/screenshots/view_holder_simple_text.png" width="25%" height="25%">
