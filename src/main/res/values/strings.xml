@@ -2,4 +2,7 @@
 <resources>
     <string name="view_holder_simple_text_sample">Simple Text</string>
     <string name="view_holder_simple_description">Description Text</string>
+    <string name="no_data">Ops data not found</string>
+    <string name="sample_product_name">Atom Dress</string>
+    <string name="sample_price">Rp 250.000</string>
 </resources>
